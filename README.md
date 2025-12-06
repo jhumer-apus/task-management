@@ -14,7 +14,7 @@ git clone https://github.com/jhumer-apus/task-management.git
 ### Frontend Setup
 
 #### Requirements
-Node Version 24+
+- Node Version 24+
 
 1. Go to the frontend directory
 ```bash
@@ -39,9 +39,9 @@ localhost:3000
 ### Backend Setup
 
 #### Requirements
-PHP Version 8+
-MySQL Version 8+
-Composer Version 2.8+
+- PHP Version 8+
+- MySQL Version 8+
+- Composer Version 2.8+
 
 1. Go to the backend directory
 ```bash
