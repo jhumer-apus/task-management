@@ -1,6 +1,6 @@
 # Task Management System
 
-This is a task management system assessment
+This is a frontend developer assessment
 
 ---
 
