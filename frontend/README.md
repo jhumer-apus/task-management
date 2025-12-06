@@ -1,13 +1,18 @@
+# Project Name
+
+This is a task management system assessment
+
+---
+
 ## Requirements
-Node Version: 24
+- Node.js v24+
+- (If backend exists, add PHP & Composer requirements here)
 
-## Run
-1. 
-```cd frontend```
-2. 
-```npm install```
-3. 
-```npm run dev```
+---
 
-4. Open in browser
-```localhost:3000``
+## Installation
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/jhumer-apus/task-management.git
+
